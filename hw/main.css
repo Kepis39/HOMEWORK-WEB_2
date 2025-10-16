@@ -1,0 +1,366 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    height: 150px;
+    border-bottom: 1px transparent white;
+}
+.nav{
+    width: 80%;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    align-items: center;
+}
+ul{
+    width: 30%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+ul li a{
+    color: black;
+    text-decoration: none;
+    transition: 0.4s all ease;
+}
+ul li a:hover{
+    color: white;
+}
+.number_container{
+    width: 160px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    color: black;
+}
+.Garden{
+    width: 100%;
+    height: 750px;
+    border-top: 2px dashed white;
+    display: flex;
+    justify-content: center;
+}
+.Garden_container{
+    width: 55%;
+    height: 100%;
+    display: flex;
+}
+.left h1{
+    font-size: 60px;
+    color: white;
+}
+.left{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: start;
+}
+.button_2{
+    width: 150px;
+    height: 50px;
+    color: white;
+}
+.Garden .Garden_container h1{
+    color: #177165;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+
+}
+.number_container .trial{
+    color:white;
+}
+.button_1{
+    width: 100px;
+    height: 50px;
+    background-color: #177165;
+}
+.Garden .Garden_container button{
+    background-color: #177165;
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Garden
+{
+    background-image: url(pupupu.jpg);
+}
+.bb192{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 85%;
+    height: 300px;
+}
+.pulo{
+    @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+}
+.pulo{
+  font-family: "Lato", sans-serif;
+  font-weight: 10;
+  font-style: normal;
+}
+.shmyaks h1{
+    color: #177165;
+}
+.shmyaks{
+    width: 125%;
+    height: 50;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.alivio{
+    font-family: "Lato", sans-serif;
+  font-weight: 20px;
+  font-style: normal;
+}
+.fog{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 190%;
+    height: 20px;
+}
+.first h1{
+    color: #177165;
+    font-size: 2cm;
+    font-weight: 550;
+}
+.first{
+    display: flex;
+    justify-content: space-between;
+}
+.ferz{
+    margin-top: 50px;
+}
+.hopop{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 240%;
+    height: 150px;
+}
+.text{
+  font-family: "Lato", sans-serif;
+  font-weight: 20;
+  font-style: normal;
+}
+.mac{
+    display: flex;
+    justify-content: center;
+    width: 230%;
+    height:400px;
+}
+.all{
+    display: flex;
+    justify-content: space-evenly;
+    width: 85%;
+}
+.second h1{
+    color: #177165;
+    font-size: 2cm;
+    font-weight: 550 ;
+}
+.bul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 145%;
+}
+.second{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 140px;
+}
+.write{
+    margin-top: 45px;
+}
+.stress{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 175%;
+    height: 100px;
+}
+.book{
+    display: flex;
+    justify-content: center;
+    width: 175%;
+    height: 250px;
+}
+.third h1{
+    color: #177165;
+    font-size: 2cm;
+    font-weight: 550;
+}
+.none{
+    display: flex;
+    justify-content: flex-start;
+    width: 160%;
+    height: 90px;
+}
+.third{
+    display: flex;
+    justify-content: center;
+}
+.alic{
+    margin-top: 50px;
+}
+.typo{
+    display: flex;
+    justify-content: center;
+}
+.women{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height:450px ;
+    margin-top: 20px;
+}
+.green{
+    background-image: url(зеленый.png);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.lacv{
+    color: white;
+
+}
+.well {
+  font-family: "Lato", sans-serif;
+  font-weight: 10;
+  font-style: normal;
+  margin-top: 35px;
+  margin-left: 300px;
+}
+@font-face {
+        font-family: georgia ;
+        src: url("assets/georgia");
+}
+.hip{
+    font-family: georgia,sans-serif;
+    margin-left: 300px;
+}
+.rich{
+    margin-top: 35px;
+    width: 165px;
+    height: 50px;
+    margin-left: 300px;
+    color: white;
+    background-color: #01996D;
+}
+.video{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    height: 400px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-right: 270px;
+}
+.ovosh{
+    display: flex;
+    justify-content: end;
+    font-family: "Lato", sans-serif;
+    font-weight: 10;
+    font-style: normal;
+    width:60%;
+    margin-top: 100px;
+}
+.dilara{
+    color: #177165;
+    font-family: georgia,sans-serif;
+    display: flex;
+    justify-content: end;
+    width: 75%;
+    margin-top: 30px;
+
+}
+.it{
+    display: flex;
+    justify-content: end;
+    font-family: "Lato", sans-serif;
+    font-weight: 10;
+    font-style: normal;
+    width: 78%;
+    margin-top: 30px;
+
+}
+.hground button{
+    background-color: #01996D;
+    color: white;
+    width: 165px;
+    height: 50px;
+    margin-left: 56%;
+    margin-top: 30px;
+}
+.arbuzz{
+    background-image: url(зеленый.png);
+}
+.res{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: "Lato", sans-serif;
+    font-weight: 40;
+    font-style: normal;
+    font-size: 25px;
+    width: 37%;
+}
+.res p{
+    margin-top: 80px;
+}
+.dma{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: "Lato", sans-serif;
+    font-weight: 10;
+    font-style: normal;
+    width: 37.5%;
+    margin-top: 50px;
+}
+.duo{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: "Lato", sans-serif;
+    font-weight: 10;
+    font-style: normal;
+    width: 37%;
+    margin-top: 50px;
+}
+.gop{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: "Lato", sans-serif;
+    font-weight: 10;
+    font-style: normal;
+    width: 38%;
+    margin-top: 50px;
+}
+.goh{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: "Lato", sans-serif;
+    font-weight: 10;
+    font-style: normal;
+    width: 36.5%;
+    margin-top: 50px;
+}
