@@ -24,14 +24,15 @@ ul{
     align-items: center;
     list-style: none;
 }
+ul li a:hover{
+    color: white;
+}
 ul li a{
     color: black;
     text-decoration: none;
     transition: 0.4s all ease;
 }
-ul li a:hover{
-    color: white;
-}
+
 .number_container{
     width: 160px;
     justify-content: space-between;
@@ -222,6 +223,13 @@ ul li a:hover{
     display: flex;
     justify-content: center;
 }
+
+.green{
+    background-image: url(зеленый.png);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
 .women{
     display: flex;
     justify-content: center;
@@ -229,15 +237,17 @@ ul li a:hover{
     height:450px ;
     margin-top: 20px;
 }
-.green{
-    background-image: url(зеленый.png);
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
 .lacv{
     color: white;
 
+}
+.rich{
+    margin-top: 35px;
+    width: 165px;
+    height: 50px;
+    margin-left: 300px;
+    color: white;
+    background-color: #01996D;
 }
 .well {
   font-family:  sans-serif;
@@ -253,14 +263,6 @@ ul li a:hover{
 .hip{
     font-family: georgia,sans-serif;
     margin-left: 300px;
-}
-.rich{
-    margin-top: 35px;
-    width: 165px;
-    height: 50px;
-    margin-left: 300px;
-    color: white;
-    background-color: #01996D;
 }
 .video{
     display: flex;
@@ -289,6 +291,7 @@ ul li a:hover{
     margin-top: 30px;
 
 }
+
 .it{
     display: flex;
     justify-content: end;
@@ -297,7 +300,6 @@ ul li a:hover{
     font-style: normal;
     width: 78%;
     margin-top: 30px;
-
 }
 .hground button{
     background-color: #01996D;
@@ -334,26 +336,6 @@ ul li a:hover{
     width: 37.4%;
     margin-top: 50px;
 }
-.duo{
-    display: flex;
-    justify-content: center;
-    color: white;
-    font-family:  sans-serif;
-    font-weight: 10;
-    font-style: normal;
-    width: 37%;
-    margin-top: 49px;
-}
-.gop{
-    display: flex;
-    justify-content: center;
-    color: white;
-    font-family:  sans-serif;
-    font-weight: 10;
-    font-style: normal;
-    width: 38%;
-    margin-top:49px;
-}
 .goh{
     display: flex;
     justify-content: center;
@@ -364,5 +346,27 @@ ul li a:hover{
     width: 36.4%;
     margin-top: 49px;
 }
+.duo{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family:  sans-serif;
+    font-weight: 10;
+    font-style: normal;
+    width: 37%;
+    margin-top: 49px;
+}
+
+.gop{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family:  sans-serif;
+    font-weight: 10;
+    font-style: normal;
+    width: 38%;
+    margin-top:49px;
+}
+
 
 
