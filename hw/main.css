@@ -106,7 +106,7 @@ ul li a:hover{
     @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 }
 .pulo{
-  font-family: "Lato", sans-serif;
+  font-family:  sans-serif;
   font-weight: 10;
   font-style: normal;
 }
@@ -121,7 +121,7 @@ ul li a:hover{
     align-items: center;
 }
 .alivio{
-    font-family: "Lato", sans-serif;
+    font-family:  sans-serif;
   font-weight: 20px;
   font-style: normal;
 }
@@ -152,7 +152,7 @@ ul li a:hover{
     height: 150px;
 }
 .text{
-  font-family: "Lato", sans-serif;
+  font-family:  sans-serif;
   font-weight: 20;
   font-style: normal;
 }
@@ -240,7 +240,7 @@ ul li a:hover{
 
 }
 .well {
-  font-family: "Lato", sans-serif;
+  font-family:  sans-serif;
   font-weight: 10;
   font-style: normal;
   margin-top: 35px;
@@ -274,7 +274,7 @@ ul li a:hover{
 .ovosh{
     display: flex;
     justify-content: end;
-    font-family: "Lato", sans-serif;
+    font-family:  sans-serif;
     font-weight: 10;
     font-style: normal;
     width:60%;
@@ -292,7 +292,7 @@ ul li a:hover{
 .it{
     display: flex;
     justify-content: end;
-    font-family: "Lato", sans-serif;
+    font-family:  sans-serif;
     font-weight: 10;
     font-style: normal;
     width: 78%;
@@ -315,7 +315,7 @@ ul li a:hover{
     justify-content: center;
     align-items: center;
     color: white;
-    font-family: "Lato", sans-serif;
+    font-family:  sans-serif;
     font-weight: 40;
     font-style: normal;
     font-size: 25px;
@@ -328,7 +328,7 @@ ul li a:hover{
     display: flex;
     justify-content: center;
     color: white;
-    font-family: "Lato", sans-serif;
+    font-family:  sans-serif;
     font-weight: 10;
     font-style: normal;
     width: 37.5%;
@@ -338,7 +338,7 @@ ul li a:hover{
     display: flex;
     justify-content: center;
     color: white;
-    font-family: "Lato", sans-serif;
+    font-family:  sans-serif;
     font-weight: 10;
     font-style: normal;
     width: 37%;
@@ -348,7 +348,7 @@ ul li a:hover{
     display: flex;
     justify-content: center;
     color: white;
-    font-family: "Lato", sans-serif;
+    font-family:  sans-serif;
     font-weight: 10;
     font-style: normal;
     width: 38%;
@@ -358,9 +358,10 @@ ul li a:hover{
     display: flex;
     justify-content: center;
     color: white;
-    font-family: "Lato", sans-serif;
+    font-family:  sans-serif;
     font-weight: 10;
     font-style: normal;
     width: 36.5%;
     margin-top: 50px;
+
 }
